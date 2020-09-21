@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1600660624 source:c:\users\training\desktop\fraction\fraction_test.cc
+	"fraction.h"
+	"gtest/gtest.h"
+
+1600659337 c:\users\training\desktop\fraction\fraction.h
+
+1600660718 source:c:\users\training\desktop\fraction\fraction.cc
+	<iostream>
+	<numeric>
+	<algorithm>
+	<bits/stdc++.h>
+	"fraction.h"
+

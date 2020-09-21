@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1600499651 source:c:\users\training\desktop\point\point_test.cc
+	<gtest/gtest.h>
+	"point.h"
+
+1600499743 c:\users\training\desktop\point\point.h
+
+1600500037 source:c:\users\training\desktop\point\point.cc
+	<iostream>
+	<math.h>
+	<iomanip>
+	"point.h"
+

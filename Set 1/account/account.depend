@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600331523 source:c:\users\training\desktop\account\account.cpp
+	<iostream>
+	"account.h"
+
+1600342093 c:\users\training\desktop\account\account.h
+	<string>
+
+1600327564 source:c:\users\training\desktop\account\account_test.cc
+	"account.h"
+	<gtest/gtest.h>
+
